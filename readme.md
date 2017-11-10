@@ -1,8 +1,12 @@
 # The Barbarian Steppe
 
+Code learning game written in javascript.
+
+[Here](http://annina.cs.unibo.it:20000/login) you can try the game!
+
 Project for *Interazione Persona-Computer* exam, University of Bologna, academic year 2015-2016.
 
-Alice Valentini, Lorenzo Cazzoli, Luca Casini, Manfredi Giordano
+Contributors: [Alice Valentini](https://github.com/alice17), [Lorenzo Cazzoli](https://github.com/lurenzsgp), [Luca Casini](https://github.com/mister-magpie), [Manfredi Giordano](https://github.com/poffuomo)
 
 -------
 
